@@ -68,4 +68,4 @@ VOLUME /home/blockchain-automation-framework/
 
 WORKDIR /home/blockchain-automation-framework/build/
 
-CMD /home/run.sh
+CMD /home/reset.sh
